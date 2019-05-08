@@ -1,1 +1,1 @@
-# Module 2 has some html file that I have worked with on previous tutorial session
+# Module 2 has some html files that I have worked with on previous tutorial session, for documentation purpose
